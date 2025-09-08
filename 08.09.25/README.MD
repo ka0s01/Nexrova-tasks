@@ -1,3 +1,10 @@
+## Features
+
+- Receive and respond to WhatsApp messages using Google Gemini LLM (`gemini-1.5-flash`).
+- Store users and conversation history in Supabase.
+- Handles multiple users and maintains separate chat sessions.
+
+
 ## Setup Instructions
 - Clone the Repo
 - Create a virtual environment and activate it
@@ -30,3 +37,4 @@
 - Configure the Twilio Sandbox
 - Set the webhook URL (ngrok forwarding)
 - Message Twilio on whatsapp
+
